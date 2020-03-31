@@ -1,5 +1,7 @@
 # MiniGolf
 
+A project worked with [strawstack](https://github.com/strawstack)
+
 12-Hole MiniGolf. Made with HTML5, SVG, Phaser3, Figma, and MatterJS
 
 # Live Demo
